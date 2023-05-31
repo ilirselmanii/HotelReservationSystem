@@ -319,7 +319,7 @@ if(isset($_GET['search']))
 									
 									</ul>
 								</div>
-							</div><!-- FILTER BUTTONS -->
+							</div>
 						</div>
 						<div class="col-md-10">
 							<div class="row gallery grid">
@@ -437,7 +437,7 @@ if(isset($_GET['search']))
 				<div class="container">
 					<div class="partners-logo">
 						
-					</div><!--partners-logo end-->
+					</div>
 				</div>
 			</div>
 		</section>
@@ -460,10 +460,10 @@ if(isset($_GET['search']))
 									<input name="" placeholder="Enter your email address" type="text">
 									<button type="submit">Subscribe</button>
 								</form>
-							</div><!--email-form end-->
+							</div>
 						</div>
 					</div>
-				</div><!--newsletter end-->
+				</div>
 			</div>
 		</section>
 
@@ -485,8 +485,8 @@ if(isset($_GET['search']))
 												<li><a href="#" title=""><i class=""></i></a></li>
 											
 											</ul>
-										</div><!--about-widget end-->
-									</div><!--widget end-->
+										</div>
+									</div>
 								</div>
 								<div class="col-md-3">
 									<div class="widget">
@@ -505,16 +505,16 @@ if(isset($_GET['search']))
 													<h3><a href="#" title="">Luxury Room</a></h3>
 													<span>$352 një natë</span>
 												</div>
-											</div><!--news end-->
+											</div>
 											<div class="news">
 												<img src="images/resources/sroom3.png" alt="">
 												<div class="news-details">
 													<h3><a href="#" title="">Double Room </a></h3>
 													<span>$125 një natë</span>
 												</div>
-											</div><!--news end-->
-										</div><!--news-widget end-->
-									</div><!--widget end-->
+											</div>
+										</div>
+									</div>
 								</div>
 								<div class="col-md-3">
 									<div class="widget">
@@ -537,8 +537,8 @@ if(isset($_GET['search']))
 												
 												</ul>
 											</div>
-										</div><!--widget-quick-links end-->
-									</div><!--widget-end-->
+										</div>
+									</div>
 								</div>
 								<div class="col-md-2 lst">
 									<div class="widget">
@@ -557,28 +557,28 @@ if(isset($_GET['search']))
 												<li><a href="#" title="">Ofertat</a></li>
 											</ul>
 										</div><!--widget-tags end-->
-									</div><!--widget end-->
+									</div>
 								</div>
 							</div>
-						</div><!--top-footer end-->
+						</div>
 						<div class="bottom-footer">
 							<div class="copyright">
 								<p>© 2023 . All Rights Reserved. </p>
-							</div><!--copyright end-->
+							</div>
 							<div class="credit">
 								<p>Punuar nga : <a href="#" title>Edona Gashi, Ardian Sallauka & Ilir Selmani Drita Kryeziu</a></p>
-							</div><!--credit end-->
-						</div><!--bottom-footer end-->
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</footer><!--footer end-->
+		</footer>
 		
-	</div><!--wrapper end-->
+	</div>
 
-<!-- Including Jquery Js File -->
+
 <script type="text/javascript" src="js/jquery.min.js"></script>
-<!-- Including Bootstrap js file -->
+
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <script type="text/javascript" src="js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="js/flatpickr.min.js"></script>
@@ -586,7 +586,7 @@ if(isset($_GET['search']))
 <script type="text/javascript" src="js/html5lightbox.js"></script>
 <script type="text/javascript" src="js/wow.js"></script>
 
-<!-- Custom Js file -->
+
 <script type="text/javascript" src="js/script.js"></script>
 
 
