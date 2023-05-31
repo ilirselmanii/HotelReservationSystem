@@ -8,9 +8,9 @@
 <meta charset="UTF-8">
 <title>Relax Hostel</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Linking Bootstrap css file -->
+
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-<!-- Linking Main Css file -->
+
 <link rel="stylesheet" type="text/css" href="css/animate.css">
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="css/flatpickr.min.css">
@@ -37,7 +37,7 @@
 								<li><i class="fa fa-phone" aria-hidden="true"></i> (+383) 49 111 222</li>
 							<li><i class="fa fa-envelope" aria-hidden="true"></i> trojanhotel@gmail.com</li>
 						</ul>
-					</div><!--con-links end-->
+					</div>
 					<div class="social-links">
 						<ul class="social-lnks">
 							<li><a href="#" title=""><i class=""></i></a></li>
@@ -46,9 +46,9 @@
 						
 						</ul>
 						
-					</div><!--socail-links end-->
+					</div>
 				</div>
-			</div><!--top-bar end-->
+			</div>
 			<div class="bottom-header">
 				<div class="container">
 					<div class="hd">
@@ -56,7 +56,7 @@
 							<a href="#" title="">
 								<img src="images/logo1.png" alt="" />
 							</a>
-						</div><!--logo end-->
+						</div>
 						<div class="menu-search">
 							<nav>
 								<ul>
@@ -67,9 +67,9 @@
 									<li><a href="about.php" title="">Rreth Nesh</a></li>
 									<li><a href="contact.php" title="">Na Kontaktoni</a></li>
 								</ul>
-		 					</nav><!--nav end-->
+		 					</nav>
 							
-						</div><!--menu-search end-->
+						</div>
 						<div class="menu-icon">
 							<span class="first-bar"></span>
 							<span class="second-bar"></span>
@@ -77,8 +77,8 @@
 						</div>
 					</div>
 				</div>
-			</div><!--bottom-header end-->
-		</header><!--Header end-->
+			</div>
+		</header>
 	
 	
 		<div class="about-bg">
@@ -122,17 +122,17 @@
 										<span>Restaurante</span>
 									</li>
 								</ul>
-							</div><!--relax-history end-->
+							</div>
 						</div>
 						<div class="col-md-5">
 							<div class="history-carousel">
 								<div class="history-img">
 									<img src="http://creativethemes.us/relax/images/resources/history1.jpg" alt="">
-								</div><!--history-img end-->
+								</div>
 								<div class="history-img">
 									<img src="http://creativethemes.us/relax/images/resources/history1.jpg" alt="">
-								</div><!--history-img end-->
-							</div><!--history-carousel end-->
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -147,25 +147,25 @@
 						<div class="col-md-3">
 							<div class="abt-img">
 								<img src="http://creativethemes.us/relax/images/resources/about1.jpg" alt="">
-							</div><!--abt-img end-->
+							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="abt-img">
 								<img src="http://creativethemes.us/relax/images/resources/about2.jpg" alt="">
-							</div><!--abt-img end-->
+							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="abt-img">
 								<img src="http://creativethemes.us/relax/images/resources/about3.jpg" alt="">
-							</div><!--abt-img end-->
+							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="abt-img">
 								<img src="http://creativethemes.us/relax/images/resources/about4.jpg" alt="">
-							</div><!--abt-img end-->
+							</div>
 						</div>
 					</div>
-				</div><!--about-imgs end-->
+				</div>
 				<div class="abt-links">
 					<div class="row no-gutter">
 						<div class="col-md-6">
@@ -187,7 +187,7 @@
 					</div>
 					
 					
-				</div><!--abt-links end-->
+				</div>
 			</div>
 		</section>	
 		
@@ -212,8 +212,8 @@
 												<li><a href="#" title=""><i class=""></i></a></li>
 											
 											</ul>
-										</div><!--about-widget end-->
-									</div><!--widget end-->
+										</div>
+									</div>
 								</div>
 								<div class="col-md-3">
 									<div class="widget">
@@ -225,23 +225,23 @@
 													<h3><a href="#" title="">Single Room</a></h3>
 													<span>$85 një natë</span>
 												</div>
-											</div><!--news end-->
+											</div>
 											<div class="news">
 												<img src="images/resources/sroom2.png" alt="">
 												<div class="news-details">
 													<h3><a href="#" title="">Luxury Room</a></h3>
 													<span>$352 një natë</span>
 												</div>
-											</div><!--news end-->
+											</div>
 											<div class="news">
 												<img src="images/resources/sroom3.png" alt="">
 												<div class="news-details">
 													<h3><a href="#" title="">Double Room </a></h3>
 													<span>$125 një natë</span>
 												</div>
-											</div><!--news end-->
-										</div><!--news-widget end-->
-									</div><!--widget end-->
+											</div>
+										</div>
+									</div>
 								</div>
 								<div class="col-md-3">
 									<div class="widget">
@@ -262,8 +262,8 @@
 													<li><a href="#" title="">Ofertat</a></li>
 												</ul>
 											</div>
-										</div><!--widget-quick-links end-->
-									</div><!--widget-end-->
+										</div>
+									</div>
 								</div>
 								<div class="col-md-2 lst">
 									<div class="widget">
@@ -281,15 +281,15 @@
 												<li><a href="#" title="">Pishina</a></li>
 												<li><a href="#" title="">Ofertat</a></li>
 											</ul>
-										</div><!--widget-tags end-->
-									</div><!--widget end-->
+										</div>
+									</div>
 								</div>
 							</div>
-						</div><!--top-footer end-->
+						</div>
 						<div class="bottom-footer">
 							<div class="copyright">
 								<p>© 2023 . All Rights Reserved. </p>
-							</div><!--copyright end-->
+							</div>
 							<div class="credit">
 								<p>Punuar nga : <a href="#" title>Edona Gashi, Ardian Sallauka & Ilir Selmani Drita Kryeziu</a></p>
 							</div>
@@ -305,11 +305,11 @@
 
 	</div>
 
-<!-- Including Jquery Js File -->
+
 <script type="text/javascript" src="http://creativethemes.us/relax/js/jquery.min.js"></script>
-<!-- Including Bootstrap js file -->
+
 <script type="text/javascript" src="http://creativethemes.us/relax/js/bootstrap.min.js"></script>
-<!-- Custom Js file -->
+
 <script type="text/javascript" src="http://creativethemes.us/relax/js/script.js"></script>
 
 
